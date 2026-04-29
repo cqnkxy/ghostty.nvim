@@ -1,3 +1,7 @@
+-- ghostty.nvim
+-- License: MIT
+-- Based on Ghostty's default dark style
+
 local M = {}
 
 M.palette = {

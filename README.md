@@ -25,6 +25,10 @@ A minimal, high-contrast Neovim theme based on the default dark style of the [Gh
 }
 ```
 
+## License
+
+MIT
+
 ## Credits
 
 - Colors based on the default dark style by [Mitchell Hashimoto](https://github.com/mitchellh) and the Ghostty contributors.
