@@ -32,4 +32,3 @@ MIT
 ## Credits
 
 - Colors based on the default dark style by [Mitchell Hashimoto](https://github.com/mitchellh) and the Ghostty contributors.
-- Structure inspired by [sonokai](https://github.com/sainnhe/sonokai).
